@@ -15,11 +15,11 @@ and weight inside a centralized project.
 - angularjs
 
 ## Docker stack
-- ubuntu:latest
+- python:latest
 
 ## To run
 `sudo ./install.sh -u`
-http://localhost
+http://localhost:8000
 
 ## To stop (optional)
 `sudo ./install.sh -d`
